@@ -1,4 +1,7 @@
 package com.example.coders
 
-class Rectangle {
-}
+class Rectangle(
+    x: Int,
+    y: Int,
+) : Shape(x, y)
+
