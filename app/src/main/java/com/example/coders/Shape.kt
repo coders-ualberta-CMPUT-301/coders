@@ -5,3 +5,4 @@ abstract class Shape(
     var y: Int,
     val color: String = "turquoise"
 )
+
