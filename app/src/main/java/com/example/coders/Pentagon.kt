@@ -1,6 +1,7 @@
 package com.example.coders
 
-class Star(
+class Pentagon(
     x: Int,
     y: Int,
+    val sideLength: Int
 ) : Shape(x, y)

@@ -1,6 +1,7 @@
 package com.example.coders
 
-class Star(
+class Rectangle(
     x: Int,
     y: Int,
 ) : Shape(x, y)
+
